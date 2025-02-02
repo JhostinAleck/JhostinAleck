@@ -1,47 +1,53 @@
-<h1 align="center">¡Hola! 👋 Soy Jhostin Aleck</h1>
+<h1 align="center">Hi there! 👋 I'm Jhostin Aleck</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Ingeniero+en+Sistemas;Desarrollador+Full+Stack;Especialista+GIS;Entusiasta+de+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Systems+Engineer;Full+Stack+Developer;GIS+Specialist;AWS+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhostin_Aleck-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhostin-aleck-sanchez-603454177/)
-  [![Email](https://img.shields.io/badge/Email-jhostinaleck@jadevia.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhostinaleck@jadevia.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-En_Desarrollo-1db954?style=for-the-badge&logo=github&logoColor=white)]()
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhostin_Aleck-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jhostin-aleck-sanchez-603454177/)](https://www.linkedin.com/in/jhostin-aleck-sanchez-603454177/)
+  [![Email](https://img.shields.io/badge/Email-jhostinaleck@jadevia.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jhostinaleck@jadevia.com)](mailto:jhostinaleck@jadevia.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-1db954?style=for-the-badge&logo=github&logoColor=white)]()
 </div>
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Ingeniero en Sistemas de la Universidad de los Andes, apasionado por la creación de soluciones tecnológicas innovadoras. Mi experiencia abarca el desarrollo full-stack, sistemas de información geográfica (GIS) y arquitecturas cloud. Me destaco por combinar diferentes tecnologías para crear soluciones robustas y escalables.
+I'm a Systems Engineer from Universidad de los Andes, passionate about creating innovative technological solutions. With expertise spanning full-stack development, Geographic Information Systems (GIS), and cloud architectures, I specialize in combining diverse technologies to build robust and scalable solutions. My approach focuses on delivering high-impact results through creative problem-solving and technical excellence.
 
-## 💻 Stack Tecnológico
+## 💻 Tech Stack
 
 <details>
 <summary>🌐 Frontend Development</summary>
 
 ```javascript
-const devTools = {
-    bundlers: ['Webpack', 'Vite'],
-    packageManagers: ['npm', 'yarn'],
-    versionControl: ['Git', 'GitHub'],
-    ide: ['VS Code', 'WebStorm']
+const frontendStack = {
+    core: ['HTML5', 'CSS3', 'JavaScript', 'TypeScript'],
+    frameworks: ['React', 'Astro'],
+    styling: ['Tailwind CSS', 'SASS'],
+    tools: {
+        bundlers: ['Webpack', 'Vite'],
+        packageManagers: ['npm', 'yarn'],
+        versionControl: ['Git', 'GitHub'],
+        ide: ['VS Code']
+    }
 }
-``` 
+```
 </details>
 <details>
-  <summary>⚙️ Desarrollo Backend</summary>
+<summary>⚙️ Backend Development</summary>
 
 ```javascript 
-  backend_skills = {
-      "languages": ["Python", "Java"],
-      "frameworks": ["Django"],
-      "databases": {
-          "relational": ["PostgreSQL", "Oracle SQL"],
-          "query_expertise": ["SQL"]
-      }
-  }
+  const backendStack = {
+    languages: ['Python', 'Java'],
+    frameworks: ['Django', 'FastAPI', 'Spring'],
+    databases: {
+        relational: ['PostgreSQL', 'Oracle SQL'],
+        query_expertise: ['SQL', 'ORM'],
+        optimization: ['Query Performance', 'Database Design']
+    },
+    api: ['REST', 'GraphQL']
+}
 ```
 </details>
 
@@ -50,21 +56,18 @@ const devTools = {
   
   
 ```javascript
-  const cloudSkills = {
-    aws: [
-      'EC2', 
-      'S3', 
-      'Lambda',
-      'sage'  
-    ],
-   cicd: {
-    tools: ['Jenkins', 'GitHub Actions', 'AWS CodePipeline'],
-    practices: ['Infrastructure as Code', 'Continuous Deployment']
-  },
-  containers: ['Docker', 'Kubernetes'],
-    deployment: true,
-    scalability: true
-  }
+  const cloudStack = {
+    aws: {
+        compute: ['EC2', 'Lambda'],
+        storage: ['S3', 'RDS', 'Firebase'],
+        ml: ['SageMaker'],
+    },
+    cicd: {
+        tools: ['Jenkins', 'GitHub Actions', 'AWS CodePipeline'],
+        practices: ['Infrastructure as Code', 'Continuous Deployment']
+    },
+    containers: ['Docker'],
+}
 ```
 </details>
 
@@ -72,49 +75,54 @@ const devTools = {
   <summary>🗺️ GIS & Análisis Espacial</summary>
 
 ```python
-  gis_skills = {
-      "platforms": ["ArcGIS"],
-      "capabilities": [
-          "Análisis espacial",
-          "Cartografía digital",
-          "Procesamiento de datos geoespaciales"
-      ]
-  }
+  gis_stack = {
+    "platforms": ["ArcGIS", "QGIS"],
+    "capabilities": [
+        "Spatial Analysis",
+        "Digital Cartography",
+        "Geospatial Data Processing",
+        "Remote Sensing"
+    ],
+    "data_formats": ["GeoJSON", "Shapefile", "GeoTIFF"]
+}
   ```
 </details>
 
 ---
-
-## 🌟 Proyectos Destacados
+## 🌟 Featured Projects
 
 <div align="center">
 
-| Proyecto               | Descripción                        | Tecnologías         |
-|------------------------|------------------------------------|---------------------|
-| **Nombre Proyecto 1**  | Breve descripción del proyecto      | React, Django, AWS  |
-| **Nombre Proyecto 2**  | Breve descripción del proyecto      | Python, PostgreSQL  |
-| **Nombre Proyecto 3**  | Breve descripción del proyecto      | ArcGIS, JavaScript  |
+[![Gentrification Analysis](https://img.shields.io/badge/📊_Gentrification_Analysis-View_Project-blue?style=for-the-badge&logo=arcgis&logoColor=white)](https://storymaps.arcgis.com/stories/5293ea7a4420443ab5a25fad2cd79fc8)
+[![Burning Bull](https://img.shields.io/badge/🔥_Burning_Bull-Visit_Site-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://burningbull.netlify.app/)
+[![MaintainLytec](https://img.shields.io/badge/⚙️_MaintainLytec-Learn_More-green?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:jhostinaleck@jadevia.com)
+
+| Project | Description | Technologies | Type |
+|---------|------------|--------------|------|
+| **[Gentrification in Medellín](https://storymaps.arcgis.com/stories/5293ea7a4420443ab5a25fad2cd79fc8)** | Comprehensive analysis of gentrification's impact on living costs using advanced geospatial data analytics | ArcGIS, Python, AWS | Data Science & GIS |
+| **[Burning Bull Page](https://burningbull.netlify.app/)** | Modern corporate website for an SPFX company featuring responsive design and seamless user experience | Astro, React, Tailwind | Frontend |
+| **MaintainLytec** | Advanced SAAS platform for HVAC maintenance management featuring AI-powered diagnostics and automated communication systems | Django, TypeScript, AI, Telegram & WhatsApp Bots | Full Stack |
 
 </div>
 
----
-
-## 📈 Contribuciones
+## 📈 GitHub Analytics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhostinAleck&theme=tokyonight" />
 </div>
 
----
+## 📫 Get in Touch
 
-## 📫 Contacto
+I'm always open to interesting conversations and potential collaborations!
 
-¿Interesado en colaborar? ¡Contáctame!
+<div align="center">
 
-- **Email**: [jhostinaleck@jadevia.com](mailto:jhostinaleck@jadevia.com)  
-- **LinkedIn**: [Jhostin Aleck](https://www.linkedin.com/in/jhostin-aleck-sanchez-603454177/)  
-- **Portfolio**: *(En desarrollo)*
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhostin-aleck-sanchez-603454177/)
+[![Email](https://img.shields.io/badge/Send_me_an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhostinaleck@jadevia.com)
+[![Portfolio](https://img.shields.io/badge/Check_my-Portfolio-1db954?style=for-the-badge&logo=github&logoColor=white)]()
+
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JhostinAleck&label=Visitas+al+perfil&color=brightgreen" alt="Contador de visitas">
+  <img src="https://komarev.com/ghpvc/?username=JhostinAleck&label=Profile+Views&color=brightgreen" alt="Profile Visit Counter">
 </p>

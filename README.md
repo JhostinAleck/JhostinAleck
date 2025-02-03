@@ -59,9 +59,12 @@ const frontendStack = {
   const cloudStack = {
     aws: {
         compute: ['EC2', 'Lambda'],
-        storage: ['S3', 'RDS', 'Firebase'],
+        storage: ['S3', 'RDS'],
         ml: ['SageMaker'],
     },
+		 google: {
+					storage: ['Firebase']
+		 },
     cicd: {
         tools: ['Jenkins', 'GitHub Actions', 'AWS CodePipeline'],
         practices: ['Infrastructure as Code', 'Continuous Deployment']

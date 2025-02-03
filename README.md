@@ -24,7 +24,7 @@ I'm a Systems Engineer from Universidad de los Andes, passionate about creating 
 const frontendStack = {
     core: ['HTML5', 'CSS3', 'JavaScript', 'TypeScript'],
     frameworks: ['React', 'Astro'],
-    styling: ['Tailwind CSS', 'SASS'],
+    styling: ['Tailwind CSS', 'SASS', 'Bootstrap'],
     tools: {
         bundlers: ['Webpack', 'Vite'],
         packageManagers: ['npm', 'yarn'],

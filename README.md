@@ -1,131 +1,67 @@
-<h1 align="center">Hi there! 👋 I'm Jhostin Aleck</h1>
+# Jhostin Aleck
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Systems+Engineer;Full+Stack+Developer;GIS+Specialist;AWS+Enthusiast" alt="Typing SVG" />
-</div>
+Systems Engineer from Universidad de los Andes, Colombia. I build web products, integrations for AI assistants, and tools that turn everyday workflows into working software.
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhostin_Aleck-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jhostin-aleck-sanchez-603454177/)](https://www.linkedin.com/in/jhostin-aleck-sanchez-603454177/)
-  [![Email](https://img.shields.io/badge/Email-jhostinaleck@jadevia.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jhostinaleck@jadevia.com)](mailto:jhostinaleck@jadevia.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-1db954?style=for-the-badge&logo=github&logoColor=white)]()
-</div>
+[LinkedIn](https://www.linkedin.com/in/jhostin-aleck-sanchez-603454177/) · [Email](mailto:jhostinaleck@jadevia.com)
 
-## 🚀 About Me
+## Selected projects
 
-I'm a Systems Engineer from Universidad de los Andes, passionate about creating innovative technological solutions. With expertise spanning full-stack development, Geographic Information Systems (GIS), and cloud architectures, I specialize in combining diverse technologies to build robust and scalable solutions. My approach focuses on delivering high-impact results through creative problem-solving and technical excellence.
+### Brightspace MCP
 
-## 💻 Tech Stack
+An open-source MCP server that connects AI assistants to D2L Brightspace: courses, assignments, grades, content and calendars. Built with multiple authentication strategies, MFA support, caching and retry handling, with explicit controls for write operations.
 
-<details>
-<summary>🌐 Frontend Development</summary>
+**TypeScript · MCP · API integrations**
 
-```javascript
-const frontendStack = {
-    core: ['HTML5', 'CSS3', 'JavaScript', 'TypeScript'],
-    frameworks: ['React', 'Astro'],
-    styling: ['Tailwind CSS', 'SASS', 'Bootstrap'],
-    tools: {
-        bundlers: ['Webpack', 'Vite'],
-        packageManagers: ['npm', 'yarn'],
-        versionControl: ['Git', 'GitHub'],
-        ide: ['VS Code']
-    }
-}
-```
-</details>
-<details>
-<summary>⚙️ Backend Development</summary>
+[Source code](https://github.com/JhostinAleck/brightspace-mcp) · [Documentation](https://jhostinaleck.github.io/brightspace-mcp/)
 
-```javascript 
-  const backendStack = {
-    languages: ['Python', 'Java'],
-    frameworks: ['Django', 'FastAPI', 'Spring'],
-    databases: {
-        relational: ['PostgreSQL', 'Oracle SQL'],
-        query_expertise: ['SQL', 'ORM'],
-        optimization: ['Query Performance', 'Database Design']
-    },
-    api: ['REST', 'GraphQL']
-}
-```
-</details>
+### Melete
 
-<details>
-  <summary>☁️ Cloud & DevOps</summary>
-  
-  
-```javascript
-  const cloudStack = {
-    aws: {
-        compute: ['EC2', 'Lambda'],
-        storage: ['S3', 'RDS'],
-        ml: ['SageMaker'],
-    },
-		 google: {
-					storage: ['Firebase']
-		 },
-    cicd: {
-        tools: ['Jenkins', 'GitHub Actions', 'AWS CodePipeline'],
-        practices: ['Infrastructure as Code', 'Continuous Deployment']
-    },
-    containers: ['Docker'],
-}
-```
-</details>
+A language-learning app with spaced repetition, vocabulary practice and a writing journal. It combines different practice activities with progress tracking and optional AI-assisted writing feedback.
 
-<details>
-  <summary>🗺️ GIS & Análisis Espacial</summary>
+**Next.js · TypeScript · PostgreSQL**
 
-```python
-  gis_stack = {
-    "platforms": ["ArcGIS", "QGIS"],
-    "capabilities": [
-        "Spatial Analysis",
-        "Digital Cartography",
-        "Geospatial Data Processing",
-        "Remote Sensing"
-    ],
-    "data_formats": ["GeoJSON", "Shapefile", "GeoTIFF"]
-}
-  ```
-</details>
+[Try Melete](https://melete-langs.vercel.app/) · Private source code
 
----
-## 🌟 Featured Projects
+### Burning Bull
 
-<div align="center">
+A website for a special-effects and stunts company, presenting its services and work through a responsive, visual experience.
 
-[![Gentrification Analysis](https://img.shields.io/badge/📊_Gentrification_Analysis-View_Project-blue?style=for-the-badge&logo=arcgis&logoColor=white)](https://storymaps.arcgis.com/stories/5293ea7a4420443ab5a25fad2cd79fc8)
-[![Burning Bull](https://img.shields.io/badge/🔥_Burning_Bull-Visit_Site-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://burningbull.netlify.app/)
-[![MaintainLytec](https://img.shields.io/badge/⚙️_MaintainLytec-Learn_More-green?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:jhostinaleck@jadevia.com)
+**Astro · React · Tailwind CSS**
 
-| Project | Description | Technologies | Type |
-|---------|------------|--------------|------|
-| **[Gentrification in Medellín](https://storymaps.arcgis.com/stories/5293ea7a4420443ab5a25fad2cd79fc8)** | Comprehensive analysis of gentrification's impact on living costs using advanced geospatial data analytics | ArcGIS, Python, AWS | Data Science & GIS |
-| **[Burning Bull Page](https://burningbull.netlify.app/)** | Modern corporate website for an SPFX company featuring responsive design and seamless user experience | Astro, React, Tailwind | Frontend |
-| **MaintainLytec** | Advanced SAAS platform for HVAC maintenance management featuring AI-powered diagnostics and automated communication systems | Django, TypeScript, AI, Telegram & WhatsApp Bots | Full Stack |
+[Visit Burning Bull](https://burningbull.com.co/)
 
-</div>
+## An Egyptian-inspired collection
 
-## 📈 GitHub Analytics
+Personal applications with a shared visual identity: fine gold linework, warm surfaces and typography inspired by an archive. Each explores a different problem, from coordinating coding agents to understanding personal data.
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhostinAleck&theme=tokyonight" />
-</div>
+**These applications and their source code are private.** The screenshots below show demonstration data or educational content, with no personal health records, financial balances or private project details.
 
-## 📫 Get in Touch
+### Gesso — a workspace for coding agents
 
-I'm always open to interesting conversations and potential collaborations!
+A mission dashboard for Claude Code and Codex: projects, task progress, agent activity and review requests in one place. Designed to make ongoing work and the next decision visible.
 
-<div align="center">
+**Next.js · TypeScript · PostgreSQL · Agent integrations**
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhostin-aleck-sanchez-603454177/)
-[![Email](https://img.shields.io/badge/Send_me_an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhostinaleck@jadevia.com)
-[![Portfolio](https://img.shields.io/badge/Check_my-Portfolio-1db954?style=for-the-badge&logo=github&logoColor=white)]()
+![Gesso dashboard with fictional missions and agent activity](assets/gesso.png)
 
-</div>
+### Imhotep — a personal health archive
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JhostinAleck&label=Profile+Views&color=brightgreen" alt="Profile Visit Counter">
-</p>
+A PWA for bringing health records together, tracking data sources and freshness, and recording water, meals and wellbeing. Includes charts, synchronization monitoring and an assistant grounded in the available records.
+
+**React · Python · SQLite · PWA · Webhooks**
+
+![Imhotep daily journal with fictional water and meal entries](assets/imhotep.png)
+
+### Ankh — personal finance, made understandable
+
+A portfolio and budgeting app with investment analysis, contribution simulations and financial education. The preview shows its learning section, with lessons, calculators and guided exercises.
+
+**React · TypeScript · FastAPI**
+
+![Ankh learning section with financial education modules](assets/ankh.png)
+
+## Tools I work with
+
+TypeScript, React, Next.js, Astro, Python, Django, FastAPI, PostgreSQL and Docker. My background also includes GIS and spatial analysis with ArcGIS and QGIS.
+
+I'm interested in useful products, thoughtful interfaces and integrations that hold up in everyday use.

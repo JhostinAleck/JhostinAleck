@@ -1,67 +1,111 @@
-# Jhostin Aleck
+<p align="center">
+  <picture><source media="(max-width: 600px)" srcset="assets/hero-mobile.svg" /><img src="assets/hero.svg" width="100%" alt="Jhostin Aleck. Engineer, builder, explorer. Animated orbital illustration." /></picture>
+</p>
 
-Systems Engineer from Universidad de los Andes, Colombia. I build web products, integrations for AI assistants, and tools that turn everyday workflows into working software.
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhostin-aleck-sanchez-603454177/"><img src="assets/linkedin-button.svg" alt="Connect on LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:jhostinaleck@jadevia.com"><img src="assets/email-button.svg" alt="Let's talk by email" /></a>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/jhostin-aleck-sanchez-603454177/) · [Email](mailto:jhostinaleck@jadevia.com)
+<p align="center">
+  <b>I turn ideas into products you can actually use.</b><br />
+  Systems Engineer · Universidad de los Andes · Colombia<br />
+  Web experiences, AI integrations, and a soft spot for thoughtful design.
+</p>
 
-## Selected projects
+---
 
-### Brightspace MCP
+### ✦ Selected work
 
-An open-source MCP server that connects AI assistants to D2L Brightspace: courses, assignments, grades, content and calendars. Built with multiple authentication strategies, MFA support, caching and retry handling, with explicit controls for write operations.
+<img src="assets/badge-oss.svg" alt="MCP: open source" /> <img src="assets/badge-live.svg" alt="Public web apps" />
 
-**TypeScript · MCP · API integrations**
+<a href="https://github.com/JhostinAleck/brightspace-mcp"><picture><source media="(max-width: 600px)" srcset="assets/brightspace-mobile.svg" /><img src="assets/brightspace.svg" width="100%" alt="Brightspace MCP — Your campus. Connected to AI. Explore the open-source project." /></picture></a>
 
-[Source code](https://github.com/JhostinAleck/brightspace-mcp) · [Documentation](https://jhostinaleck.github.io/brightspace-mcp/)
+Courses, grades, assignments and content for MCP-compatible assistants. Multiple authentication strategies, MFA, caching and explicit controls for write operations.
 
-### Melete
+<a href="https://github.com/JhostinAleck/brightspace-mcp"><img src="assets/source-button.svg" alt="Source code" /></a> <a href="https://jhostinaleck.github.io/brightspace-mcp/"><img src="assets/docs-button.svg" alt="Read the documentation" /></a>
 
-A language-learning app with spaced repetition, vocabulary practice and a writing journal. It combines different practice activities with progress tracking and optional AI-assisted writing feedback.
+<br />
 
-**Next.js · TypeScript · PostgreSQL**
+<a href="https://melete-langs.vercel.app/"><picture><source media="(max-width: 600px)" srcset="assets/melete-mobile.svg" /><img src="assets/melete.svg" width="100%" alt="Melete — Small practice. Lasting knowledge. Open the language-learning app." /></picture></a>
 
-[Try Melete](https://melete-langs.vercel.app/) · Private source code
+Spaced repetition, vocabulary practice and a writing journal, with optional AI-assisted feedback. Built as a complete learning experience. **Private source. Public app.**
 
-### Burning Bull
+<a href="https://melete-langs.vercel.app/"><img src="assets/melete-link-button.svg" alt="Explore Melete" /></a>
 
-A website for a special-effects and stunts company, presenting its services and work through a responsive, visual experience.
+<br />
 
-**Astro · React · Tailwind CSS**
+<a href="https://burningbull.com.co/"><picture><source media="(max-width: 600px)" srcset="assets/burning-bull-mobile.svg" /><img src="assets/burning-bull.svg" width="100%" alt="Burning Bull — Built for the extraordinary. Visit the special-effects and stunts website." /></picture></a>
 
-[Visit Burning Bull](https://burningbull.com.co/)
+A responsive, visual website for a special-effects and stunts company. A place for the work to take center stage.
 
-## An Egyptian-inspired collection
+<a href="https://burningbull.com.co/"><img src="assets/burning-link-button.svg" alt="Visit Burning Bull" /></a>
 
-Personal applications with a shared visual identity: fine gold linework, warm surfaces and typography inspired by an archive. Each explores a different problem, from coordinating coding agents to understanding personal data.
+<br />
 
-**These applications and their source code are private.** The screenshots below show demonstration data or educational content, with no personal health records, financial balances or private project details.
+<img src="assets/collection.svg" width="100%" alt="The private collection — Ancient inspiration. Modern systems." />
 
-### Gesso — a workspace for coding agents
+<p><img src="assets/badge-private.svg" alt="Source code: private" /></p>
 
-A mission dashboard for Claude Code and Codex: projects, task progress, agent activity and review requests in one place. Designed to make ongoing work and the next decision visible.
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>𓏞 Gesso</h3>
+<b>A workspace for coding agents.</b>
+<p>Missions, progress, activity and review requests for Claude Code and Codex.</p>
+<a href="assets/gesso.png"><img src="assets/gesso.png" alt="Open Gesso preview with fictional missions" width="100%" /></a>
+<p><code>Next.js</code> <code>PostgreSQL</code><br /><sub>PRIVATE CODE · DEMO DATA</sub></p>
+</td>
+<td width="33%" valign="top">
+<h3>𓂀 Imhotep</h3>
+<b>A personal health archive.</b>
+<p>Health records, synchronization, daily habits and insights grounded in your data.</p>
+<a href="assets/imhotep.png"><img src="assets/imhotep.png" alt="Open Imhotep preview with fictional journal entries" width="100%" /></a>
+<p><code>React</code> <code>Python</code> <code>PWA</code><br /><sub>PRIVATE CODE · DEMO DATA</sub></p>
+</td>
+<td width="33%" valign="top">
+<h3>☥ Ankh</h3>
+<b>Finance, made understandable.</b>
+<p>Portfolio analysis, budgets, contribution simulations and financial education.</p>
+<a href="assets/ankh.png"><img src="assets/ankh.png" alt="Open Ankh educational-content preview" width="100%" /></a>
+<p><code>React</code> <code>FastAPI</code><br /><sub>PRIVATE CODE · EDUCATIONAL VIEW</sub></p>
+</td>
+</tr>
+</table>
 
-**Next.js · TypeScript · PostgreSQL · Agent integrations**
+<sub>Click any preview to explore it at full size. Screenshots contain no personal health records, financial balances or private project details.</sub>
 
-![Gesso dashboard with fictional missions and agent activity](assets/gesso.png)
+### ⚡ My toolkit
 
-### Imhotep — a personal health archive
+<p align="center">
+<img src="assets/tech/TypeScript.svg" width="48" alt="TypeScript" />&nbsp;
+<img src="assets/tech/React-Dark.svg" width="48" alt="React" />&nbsp;
+<img src="assets/tech/NextJS-Dark.svg" width="48" alt="Next.js" />&nbsp;
+<img src="assets/tech/Astro.svg" width="48" alt="Astro" />&nbsp;
+<img src="assets/tech/Python-Dark.svg" width="48" alt="Python" />&nbsp;
+<img src="assets/tech/Django.svg" width="48" alt="Django" />&nbsp;
+<img src="assets/tech/FastAPI.svg" width="48" alt="FastAPI" />&nbsp;
+<img src="assets/tech/PostgreSQL-Dark.svg" width="48" alt="PostgreSQL" />&nbsp;
+<img src="assets/tech/Docker.svg" width="48" alt="Docker" />&nbsp;
+<img src="assets/tech/Git.svg" width="48" alt="Git" />
+</p>
 
-A PWA for bringing health records together, tracking data sources and freshness, and recording water, meals and wellbeing. Includes charts, synchronization monitoring and an assistant grounded in the available records.
+<details>
+<summary><b>↳ A little more about how I build</b></summary>
 
-**React · Python · SQLite · PWA · Webhooks**
+- **Interfaces:** React, Next.js and Astro, with attention to mobile layouts and clear interactions.
+- **Systems:** Python, Django, FastAPI and PostgreSQL; APIs and integrations that connect the pieces.
+- **Operations:** Docker, self-hosted services and everyday automation.
+- **Beyond web:** GIS and spatial analysis with ArcGIS and QGIS.
 
-![Imhotep daily journal with fictional water and meal entries](assets/imhotep.png)
+</details>
 
-### Ankh — personal finance, made understandable
+---
 
-A portfolio and budgeting app with investment analysis, contribution simulations and financial education. The preview shows its learning section, with lessons, calculators and guided exercises.
+<p align="center">
+  <b>Have something worth building?</b><br /><br />
+  <a href="mailto:jhostinaleck@jadevia.com"><img src="assets/email-button.svg" alt="Let's talk" /></a>
+</p>
 
-**React · TypeScript · FastAPI**
-
-![Ankh learning section with financial education modules](assets/ankh.png)
-
-## Tools I work with
-
-TypeScript, React, Next.js, Astro, Python, Django, FastAPI, PostgreSQL and Docker. My background also includes GIS and spatial analysis with ArcGIS and QGIS.
-
-I'm interested in useful products, thoughtful interfaces and integrations that hold up in everyday use.
+<sub>Original profile graphics · Technology icons by <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a> (MIT).</sub>
